@@ -1,5 +1,6 @@
 ## About wvandolen:
 a person that cannot code at all and uses machine intelligence to do it
+##  
 enjoys 3D printing, screwing around with technology, and bugging this man --> https://github.com/knoxhudgins
 
 ## Contribution Snake
