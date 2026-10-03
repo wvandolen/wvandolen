@@ -9,7 +9,7 @@ enjoys 3D printing, screwing around with technology, and bugging this man --> ht
   <img alt="github-snake" src="https://raw.githubusercontent.com/EstrellaXD/EstrellaXD/dist/github-snake.svg" />
 </picture>
 
-<p align="center" style="display: flex; gap: 0;">
+<div style="display: flex; overflow-x: auto; gap: 10px; padding-bottom: 10px;">
   <img src="https://media.tenor.com/FYO8_Qaxm8QAAAAM/lain-serial.gif" width="7%" />
   <img src="https://media.tenor.com/FYO8_Qaxm8QAAAAM/lain-serial.gif" width="7%" />
   <img src="https://media.tenor.com/FYO8_Qaxm8QAAAAM/lain-serial.gif" width="7%" />
