@@ -9,12 +9,10 @@ enjoys 3D printing, screwing around with technology, and bugging this man --> ht
   <img alt="github-snake" src="https://raw.githubusercontent.com/EstrellaXD/EstrellaXD/dist/github-snake.svg" />
 </picture>
 
-<p align="center">
-  <img src="https://i.pinimg.com/originals/6b/d0/a1/6bd0a14a95ad4854e9ce6ddc2a8db226.gif" alt="bean" width="50" />
-</p> <p align="left">
-  <img src="https://i.pinimg.com/originals/6b/d0/a1/6bd0a14a95ad4854e9ce6ddc2a8db226.gif" alt="bean" width="50" />
+<p align="center" style="display: flex; gap: 0;">
+  <img src="https://media.tenor.com/FYO8_Qaxm8QAAAAM/lain-serial.gif" width="20%" />
+  <img src="https://media.tenor.com/FYO8_Qaxm8QAAAAM/lain-serial.gif" width="20%" />
+  <img src="https://media.tenor.com/FYO8_Qaxm8QAAAAM/lain-serial.gif" width="20%" />
+  <img src="https://media.tenor.com/FYO8_Qaxm8QAAAAM/lain-serial.gif" width="20%" />
+  <img src="https://media.tenor.com/FYO8_Qaxm8QAAAAM/lain-serial.gif" width="20%" />
 </p>
-<p align="right">
-  <img src="https://i.pinimg.com/originals/6b/d0/a1/6bd0a14a95ad4854e9ce6ddc2a8db226.gif" alt="bean" width="50" />
-</p>
-
