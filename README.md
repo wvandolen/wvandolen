@@ -10,9 +10,9 @@ enjoys 3D printing, screwing around with technology, and bugging this man --> ht
 </picture>
 
 <p align="center" style="display: flex; gap: 0;">
-  <img src="https://media.tenor.com/FYO8_Qaxm8QAAAAM/lain-serial.gif" width="20%" />
-  <img src="https://media.tenor.com/FYO8_Qaxm8QAAAAM/lain-serial.gif" width="20%" />
-  <img src="https://media.tenor.com/FYO8_Qaxm8QAAAAM/lain-serial.gif" width="20%" />
-  <img src="https://media.tenor.com/FYO8_Qaxm8QAAAAM/lain-serial.gif" width="20%" />
-  <img src="https://media.tenor.com/FYO8_Qaxm8QAAAAM/lain-serial.gif" width="20%" />
+  <img src="https://media.tenor.com/FYO8_Qaxm8QAAAAM/lain-serial.gif" width="10%" />
+  <img src="https://media.tenor.com/FYO8_Qaxm8QAAAAM/lain-serial.gif" width="10%" />
+  <img src="https://media.tenor.com/FYO8_Qaxm8QAAAAM/lain-serial.gif" width="10%" />
+  <img src="https://media.tenor.com/FYO8_Qaxm8QAAAAM/lain-serial.gif" width="10%" />
+  <img src="https://media.tenor.com/FYO8_Qaxm8QAAAAM/lain-serial.gif" width="10%" />
 </p>
