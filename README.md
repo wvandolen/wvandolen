@@ -1,3 +1,6 @@
+## About wvandolen
+a person that cannot code at all and uses machine intelligence to do it.
+
 ## Contribution Snake
 
 <picture>
