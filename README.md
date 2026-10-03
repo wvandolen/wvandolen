@@ -18,4 +18,7 @@ enjoys 3D printing, screwing around with technology, and bugging this man --> ht
   <img src="https://media.tenor.com/FYO8_Qaxm8QAAAAM/lain-serial.gif" width="7%" />
   <img src="https://media.tenor.com/FYO8_Qaxm8QAAAAM/lain-serial.gif" width="7%" />
   <img src="https://media.tenor.com/FYO8_Qaxm8QAAAAM/lain-serial.gif" width="7%" />
+  <img src="https://media.tenor.com/FYO8_Qaxm8QAAAAM/lain-serial.gif" width="7%" />
+  <img src="https://media.tenor.com/FYO8_Qaxm8QAAAAM/lain-serial.gif" width="7%" />
+  <img src="https://media.tenor.com/FYO8_Qaxm8QAAAAM/lain-serial.gif" width="7%" />
 </p>
