@@ -1,7 +1,7 @@
 ## About wvandolen:
-a person that cannot code at all and uses machine intelligence to do it
+cannot code whatsoever and uses machine intelligence to do it
 
-enjoys 3D printing, screwing around with technology, and bugging this man --> https://github.com/knoxhudgins
+enjoys 3D printing, screwing around with technology, and bugging Knox
 ## 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/EstrellaXD/EstrellaXD/dist/github-snake-dark.svg" />
