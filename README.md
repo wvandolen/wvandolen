@@ -1,3 +1,4 @@
+## Hallo 問安 Hello こんにちは Salut Привет Hola
 ## About wvandolen:
 cannot code whatsoever and uses machine intelligence to do it
 
