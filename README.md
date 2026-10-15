@@ -26,4 +26,4 @@ enjoys 3D printing, screwing around with technology, and bugging Knox
   <img src="https://media.tenor.com/FYO8_Qaxm8QAAAAM/lain-serial.gif" width="7%" />
 </p>
 
-<img src="./assets" alt="" />
+<img src="./asset.svg" alt="" />
