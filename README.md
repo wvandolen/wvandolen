@@ -1,6 +1,6 @@
 ## Hallo / 問安 / Hello / こんにちは / Salut / Привет / Hola
 ## About wvandolen:
-cannot code whatsoever and uses machine intelligence to do it
+cannot code whatsoever, uses AI.
 
 enjoys 3D printing, screwing around with technology, and bugging Knox
 ## 
