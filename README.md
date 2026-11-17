@@ -2,7 +2,8 @@
 ## About wvandolen:
 cannot code whatsoever, uses AI.
 
-enjoys 3D printing, screwing around with technology, and bugging Knox
+enjoys 3D printing, screwing around with technology
+"Alles Außer Butter."
 ## 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/EstrellaXD/EstrellaXD/dist/github-snake-dark.svg" />
